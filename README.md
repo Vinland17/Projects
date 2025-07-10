@@ -31,7 +31,7 @@ This application was developed to get hands-on experience with **Spring Boot fun
 
 - **Java 11+**, **Spring Boot**
 - **Spring Web**, **Spring Data JPA**
-- **MongoDB
+- **MongoDB**
 - **Maven** for build & dependency management
 
 ---
@@ -41,6 +41,7 @@ This application was developed to get hands-on experience with **Spring Boot fun
 ### Prerequisites
 - Java 11+ installed
 - Maven installed
+- MongoDB
 - Any IDE like IntelliJ or VS Code
 
 ### Setup Instructions
